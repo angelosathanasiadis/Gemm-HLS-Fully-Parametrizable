@@ -9,4 +9,4 @@ We present a generic open-source solution for HLS design flows allowing for the 
 
 ## References
 <a id="1">[1]</a> 
- A. Athanasiadis, N. Tampouratzis and I. Papaefstathiou,  “An Open-source HLS Fully Parameterizable Matrix Multiplication Library for AMD FPGAs - WiP ”
+ A. Athanasiadis, N. Tampouratzis and I. Papaefstathiou,  “An Open-source HLS Fully Parameterizable Matrix Multiplication Library for AMD FPGAs - WiP” , 27th Euromicro Conference Series on Digital System Design (DSD), Paris, France, from 28th to 30th of August 2024.
