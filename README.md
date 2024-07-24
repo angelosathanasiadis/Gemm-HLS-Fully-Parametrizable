@@ -1,4 +1,4 @@
-# An-Open-source-HLS-Fully-Parameterizable-Matrix-Multiplication-Library-for-AMD-FPGAs
+# An Open-source HLS Fully Parameterizable Matrix Multiplication Library for AMD FPGAs - WiP 
 
 We present a generic open-source solution for HLS design flows allowing for the implementation of high-performance dense matrix multiplication on modern AMD FPGAs. 
 
